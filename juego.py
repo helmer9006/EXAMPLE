@@ -7,6 +7,6 @@ while i<=3 :
        print("Adivinastes !!")
        break
     else:
-        print("Intenta Nuevamente")
+        print("Intenta Nuevamente..")
     i+=1
-print("Perdistes!!")
+print("Game Over..Perdistes!!")
